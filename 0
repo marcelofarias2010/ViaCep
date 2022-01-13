@@ -1,0 +1,5 @@
+[12-Jan-2022 19:33:27 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Wead\DigitalCep\Search::getAddressFromZipcode() must be of the type array, none returned in C:\xampp\htdocs\BuscarCep\src\Search.php:14
+Stack trace:
+#0 C:\xampp\htdocs\BuscarCep\exemplo.php(9): Wead\DigitalCep\Search->getAddressFromZipcode('01001000')
+#1 {main}
+  thrown in C:\xampp\htdocs\BuscarCep\src\Search.php on line 14
